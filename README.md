@@ -4,6 +4,10 @@
 ## Flutter coordinator - Shibashis
 
 # About the repository
+3 branches
+- Main branch containes detailed readme file
+- Master branch for frontend screens
+- Backend branch for backend tools and resources
 ## Term 1 tasks
 - Learn and explore commands of git and github
 - Install flutter on my device
@@ -28,6 +32,11 @@
 ## Term 3 tasks
 - Learn basic fundamentals of node js and express js
 - Learn about mongodb (connecting server to database)
+- Build APIs and connect backend with frontend
 
 ### Materials
 - <a href="https://drive.google.com/drive/folders/1wP2dGWqGnEohEebiDMnQJLn37oUNrbrT"> Node js session </a>
+
+## Final Project video
+- <a href="https://drive.google.com/file/d/1b5ntKnzeSkRfbKcf6lXp8cDnL1SXUYZE/view?usp=sharing"> Final Project Video </a>
+
